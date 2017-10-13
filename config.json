@@ -1,0 +1,15 @@
+{
+    "title": "chido",
+    "baseURL": "https:\/\/www.chido12344321.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "chido12344321.com"
+    }
+}
